@@ -13,9 +13,9 @@ CopyRight (c) 2011 Muneeb ur Rehman
 function cp_siteoffline_activate()
 	{
 		$options = array(
-				enabled => false,
-				content => NULL,
-				version => 1.0
+				'enabled' => false,
+				'content' => NULL,
+				'version' => 1.0
 				);
 		if ( get_option('sp_siteoffline_options') === false )
 			add_option('sp_siteoffline_options',$options);
