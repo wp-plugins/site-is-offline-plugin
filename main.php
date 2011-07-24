@@ -3,7 +3,7 @@
 Plugin Name: Site Offline or Coming Soon
 Plugin URI: http://twitter.com/cloudplugins
 Description: Make safe changes to your site by enabling site offline mode with this plugin you'll be able to navigate your site normally but your regular visitor will se a site offline or coming soon page
-Version: 1.0
+Version: 1.1
 Author: Muneeb
 Author URI: http://twitter.com/cloudplugins
 License: GPLv2 or later
