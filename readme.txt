@@ -9,6 +9,5 @@ Stable tag: 1.1
 
 Use this plugin to enable/disable site offline mode. When Site offline Mode is enabled regular visitors of your site will see a page(you can edit that page by going to settings->Site Offline Mode) and you as a admin can make and test safe changes to your site. Very helpful for those developers who need coming soon pages for there sites.
 
-<a href="http://goo.gl/RpJJF">Site Offline Plugin Documentation</a>
+<a href="http://cloudplugins.org/site-offline-plugin-documentiom/">Site Offline Plugin Documentation</a>
 
-I'm a WordPress Developer If you want to hire me or have any questions,feedback Please contact me - <a href="https://spreadsheets.google.com/spreadsheet/viewform?formkey=dDNmd2l6djZieS01LU9DSkFZZnFsUEE6MQ" >Click Here to contact me</a> 
