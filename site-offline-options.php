@@ -2,6 +2,9 @@
 
 <div class="wrap">
         <div id="icon-options-general" class="icon32"><br /></div>
+        <div style="">
+        	<h4><a href="http://plugistan.com/comingsoon-plus/">Premium Version: WordPress Siteoffline/Coming Soon Plus Plugin</a></h4>
+    	</div>
         <h2><?php _e('Site Offline Plugin Options'); ?></h2>
         <form method="POST" action="">
         	<fieldset>
