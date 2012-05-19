@@ -1,10 +1,11 @@
 <?php if (!current_user_can('manage_options')) wp_die('You do not have sufficient permissions to access this page') ?>
 
 <div class="wrap">
+    <div>
+            <h3 style="margin:5px;"><a href="http://imuneeb.com/wordpress-coming-soon/">Premium Version: WordPress Site offline/Coming Soon Plus Plugin</a></h3>
+    </div>
         <div id="icon-options-general" class="icon32"><br /></div>
-        <div style="">
-        	<h4><a href="http://plugistan.com/comingsoon-plus/">Premium Version: WordPress Siteoffline/Coming Soon Plus Plugin</a></h4>
-    	</div>
+        
         <h2><?php _e('Site Offline Plugin Options'); ?></h2>
         <form method="POST" action="">
         	<fieldset>
