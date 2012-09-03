@@ -2,7 +2,7 @@
 
 <div class="wrap">
     <div>
-            <h3 style="margin:5px;"><a href="http://imuneeb.com/wordpress-coming-soon/">Premium Version: WordPress Site offline/Coming Soon Plus Plugin</a></h3>
+            <h3 style="margin:5px;"><a href="http://muneeb.me/wordpress-coming-soon/">Premium Version: WordPress Site offline/Coming Soon Plus Plugin</a></h3>
     </div>
         <div id="icon-options-general" class="icon32"><br /></div>
         
