@@ -1,13 +1,11 @@
 <?php
 /*
 Plugin Name: Site Offline or Coming Soon
-Plugin URI: http://muneeb.me/wordpress-coming-soon/
+Version: 1.6
+Plugin URI: http://wp-ecommerce.net/
+Author: wpecommerce
+Author URI: http://wp-ecommerce.net/
 Description: Make safe changes to your site by enabling site offline mode with this plugin you'll be able to navigate your site normally but your regular visitor will se a site offline or coming soon page
-Version: 1.5
-Author: Muneeb
-Author URI: http://muneeb.me
-License: GPLv2 or later
-CopyRight (c) 2011 Muneeb ur Rehman http://muneeb.me/contact/
 */
 
 function cp_siteoffline_activate()
