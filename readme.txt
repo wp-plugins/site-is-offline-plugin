@@ -12,7 +12,7 @@ Make safe changes to your site by enabling site offline mode
 
 == Description ==
 
-Use this plugin to enable/disable site offline mode. When Site offline Mode is enabled regular visitors of your site will see a page(you can edit that page by going to settings->Site Offline Mode) and you as a admin can make and test safe changes to your site. Very helpful for those developers who need coming soon pages for there sites.
+Use this plugin to enable/disable site offline mode. If Site offline Mode is enabled regular visitors of your site will see a maintenance mode page while you as an admin can make changes to your site. A very useful plugin for users who want to display a "coming soon" page before their websites go live or run maintenance work by taking it offline.
 
 = Site Offline Plugin Features =
 
@@ -26,7 +26,7 @@ Once you have installed the plugin you can enable "offline/maintenance mode" in 
 
 **a)** Site Offline Plugin Options
 
-This section contains a textarea which allows you to customize the page that your visitor will see when your site is offline. You can customize the message as well as the look and feel of the page.
+This section contains a textarea which allows you to customize the page that your visitors will see when your site is offline. You can customize the message as well as the look and feel of the page.
 
 For more advanced features be sure to check out our premium version of the plugin, <a href="http://muneeb.me/wordpress-coming-soon/">WordPress Site offline/Coming Soon Plugin</a>
 
