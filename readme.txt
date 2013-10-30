@@ -3,8 +3,8 @@ Contributors: wpecommerce
 Donate link: http://wp-ecommerce.net/
 Tags: coming soon,site is down,maintenance,teaser,offline,google,premium,post,page,google,admin,aweber,opt-in,form,mail chimp,administration, construction,mode,unavailable
 Requires at least: 3.0
-Tested up to: 3.6
-Stable tag: 1.6
+Tested up to: 3.7
+Stable tag: 1.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +48,9 @@ Yes.
 1. Site offline Plugin settings
 
 == Changelog ==
+
+= 1.6.1 =
+* Plugin is now compatible with WordPress 3.7
 
 = 1.6 =
 * Plugin is now compatible with WordPress 3.6
