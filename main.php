@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Site Offline or Coming Soon
-Version: 1.6.1
+Version: 1.6.2
 Plugin URI: http://wp-ecommerce.net/
 Author: wpecommerce
 Author URI: http://wp-ecommerce.net/
@@ -44,12 +44,19 @@ function cp_siteoffline_options_page_content()
 }
 function cp_siteoffline_message()
 {
-	$options = get_option('sp_siteoffline_options');
-	if ( $options['enabled'] === false ) return;
-	if ( !current_user_can('edit_posts') ){
-		echo $options['content'];
-		exit();
-	}
+    $options = get_option('sp_siteoffline_options');
+    if ( $options['enabled'] === false ) return;
+    if ( !current_user_can('edit_posts') )
+    {
+        $protocol = "HTTP/1.0";
+        if("HTTP/1.1" == $_SERVER["SERVER_PROTOCOL"]){
+            $protocol = "HTTP/1.1";
+        }
+        header("$protocol 503 Service Unavailable", true, 503);
+        header("Retry-After: 3600");
+        echo $options['content'];
+        exit();
+    }
 }
 
 /* The most effective would be init hook but then if the user logout, user may need to disable or 
