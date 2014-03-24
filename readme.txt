@@ -1,10 +1,10 @@
 === Site Offline or Coming Soon ===
 Contributors: wpecommerce
 Donate link: http://wp-ecommerce.net/
-Tags: coming soon,site is down,maintenance,teaser,offline,google,premium,post,page,google,admin,aweber,opt-in,form,mail chimp,administration, construction,mode,unavailable
+Tags: coming soon,site is down,maintenance, maintenance mode, offline, google, post, page, google, admin, aweber, mailchimp, administration, construction, mode, unavailable,
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 1.6.2
+Stable tag: 1.6.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,9 +16,11 @@ Use this plugin to enable/disable site offline mode. If Site offline Mode is ena
 
 = Site Offline Plugin Features =
 
-* Easily activate maintenance mode for your website
-* Display customized message to visitors while your site is undergoing normal/scheduled maintenance
-* Perform maintenance work on the back-end and front-end while logged in as an administrator
+* Easily activate maintenance mode for your website.
+* Display customized message to visitors while your site is undergoing normal/scheduled maintenance.
+* Perform maintenance work on the back-end and front-end while logged in as an administrator.
+* Admin dashboard notice. This allows the admin to easily notice when the site is in maintenance mode.
+* The login screen will show a "site offline" message when you keep the site in offline mode.
 
 = Site Offline Plugin Usage =
 
@@ -49,6 +51,14 @@ Yes.
 
 == Changelog ==
 
+= 1.6.3 =
+* Added an admin dashboard notice for when the site offline/maintenance mode is enabled. 
+* Fixed some minor HTML errors in the admin interface.
+* Separated the site offline enable/disable button section in the admin interface.
+* Added the messsage "The Site is Currently in Offline Mode" to the admin login screen (when the feature is enabled).
+* Added an option to reset the site offline message box content to default.
+* Updated the default message for when the maintenance mode feature is enabled.
+
 = 1.6.2 =
 * Plugin now sends the correct header status when a website is in maintenance mode
 
@@ -59,4 +69,4 @@ Yes.
 * Plugin is now compatible with WordPress 3.6
 
 == Upgrade Notice ==
-none
+None
