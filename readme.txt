@@ -35,7 +35,7 @@ For more advanced features be sure to check out our premium version of the plugi
 
 = Site offline/Coming Soon Premium =
 
-* Responsive maintenance/coming soon page
+* Responsive maintenance page
 * Social icons to link to your profiles (Example: Facebook, Google+, Twitter, LinkedIn)
 * Subscribe users to your MailChimp list
 * Automatic countdown to show your users when the site will be up
@@ -48,6 +48,7 @@ For more advanced features be sure to check out our premium version of the plugi
 * Create a gallery of images which will automatically slide in the background
 * Easily add HTML content to your coming soon page
 
+Check out the [coming soon pro plugin](http://wp-ecommerce.net/wordpress-coming-soon-plugin)
 
 == Installation ==
 
