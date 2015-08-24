@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Site Offline or Coming Soon
-  Version: 1.6.4
+  Version: 1.6.5
   Plugin URI: https://wp-ecommerce.net/
   Author: wpecommerce
   Author URI: https://wp-ecommerce.net/

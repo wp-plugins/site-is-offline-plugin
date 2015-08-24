@@ -3,8 +3,8 @@ Contributors: wpecommerce
 Donate link: https://wp-ecommerce.net/
 Tags: coming soon, site is down, maintenance, maintenance mode, offline, google, post, page, admin, aweber, mailchimp, administration, construction, mode, unavailable, coming soon page, under construction, login, landing page, launch, launch page, newsletter
 Requires at least: 3.0
-Tested up to: 4.2
-Stable tag: 1.6.4
+Tested up to: 4.3
+Stable tag: 1.6.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,9 @@ Yes.
 1. Site offline Plugin settings
 
 == Changelog ==
+
+= 1.6.5 =
+* Coming soon plugin is now compatible with WordPress 4.3.
 
 = 1.6.4 =
 * Updated the site offline check logic to be more robust.
